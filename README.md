@@ -22,10 +22,10 @@
 
 ## 🌟 Featured Projects
 
-### 🗓️ [Timetable Project](https://github.com/george-oconnor/timetable)  
+### 🗓️ [Timetable Project](https://timetable.georgeoc.com)  
 A comprehensive school timetable system built with Python Flask. Designed to manage and generate complex school timetables, blending automation and flexibility to solve real-world scheduling challenges.
 
-### 🛒 [Píosa Me Merch](https://github.com/george-oconnor/piosa-me-merch)  
+### 🛒 [Píosa Me Merch](https://merch.piosame.ie)  
 A bespoke e-commerce platform from scratch using Python Flask, featuring Stripe payments integration for seamless and secure transactions.
 
 ---
