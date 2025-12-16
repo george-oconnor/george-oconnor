@@ -28,6 +28,9 @@ A comprehensive school timetable system built with Python Flask. Designed to man
 ### 🛒 [Píosa Me Merch](https://merch.piosame.ie)  
 A bespoke e-commerce platform from scratch using Python Flask, featuring Stripe payments integration for seamless and secure transactions.
 
+### 🛒 [HPAT Exam System](https://examsystem.georgeoc.com)  
+A bespoke recreation of the online Health Professional Admissiosn Test to be used for mock/practice HPAT exams.
+
 ---
 
 ## 📫 Connect with Me
