@@ -41,6 +41,9 @@ A bespoke e-commerce platform from scratch using Python Flask, featuring Stripe 
 ### 🌅 [Ascend - Fitness Challenge Tracker](https://apps.apple.com/app/ascend-challenge-tracker/id6757496594)
 Complete multi-day fitness challenges with comprehensive tracking, Apple Health sync, progress analytics, and achievement badges to build unstoppable momentum. Transform Your Life One Day at a Time. Ascend is the ultimate companion for completing life-changing fitness challenges. Whether you're tackling a 75-day mental toughness program, a 30-day transformation, or building your own custom challenge, Ascend keeps you accountable every single day.
 
+### 🚨 DLCG Operations
+An operations dashboard for my Coast Guard unit, built with Python Flask. It logs incidents, volunteers and locations, maps callouts with Leaflet, and charts trends by callout type, month, day of week and hour, with admin tools and Excel import.
+
 ### 🔧 [Garage System](https://github.com/george-oconnor/garage-system)
 A Python Flask app for keeping a car's service history: vehicles, mileage logs, service events with itemised line items, and PDF service records.
 
