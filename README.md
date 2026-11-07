@@ -35,16 +35,16 @@
 ### <img src="assets/loaded.png" width="28" height="28" align="center" alt=""> [Loaded - Personal Budgeting](https://apps.apple.com/ie/app/loaded-personal-budgeting/id6756985580)
 Take control of your finances with Loaded - The Personal Budgeting App - the smart, intuitive way to manage your money.
 
-### 🛒 [Píosa Me Merch](https://merch-piosame.georgeoc.com/)
+### <img src="assets/piosame.png" width="28" height="28" align="center" alt=""> [Píosa Me Merch](https://merch-piosame.georgeoc.com/)
 A bespoke e-commerce platform from scratch using Python Flask, featuring Stripe payments integration for seamless and secure transactions.
 
 ### <img src="assets/ascend.png" width="28" height="28" align="center" alt=""> [Ascend - Fitness Challenge Tracker](https://apps.apple.com/app/ascend-challenge-tracker/id6757496594)
 Complete multi-day fitness challenges with comprehensive tracking, Apple Health sync, progress analytics, and achievement badges to build unstoppable momentum. Transform Your Life One Day at a Time. Ascend is the ultimate companion for completing life-changing fitness challenges. Whether you're tackling a 75-day mental toughness program, a 30-day transformation, or building your own custom challenge, Ascend keeps you accountable every single day.
 
-### 🧘 [Roseberg Studios](https://www.roseberg.ie)
+### <img src="assets/roseberg.png" width="28" height="28" align="center" alt=""> [Roseberg Studios](https://www.roseberg.ie)
 The website for Roseberg, a reformer Pilates studio in Ballsbridge, Dublin 4. Built on Wix, with an online class schedule and booking, memberships and class bundles.
 
-### 🚨 DLCG Operations
+### <img src="assets/dlcg.png" width="28" height="28" align="center" alt=""> DLCG Operations
 An operations dashboard for my Coast Guard unit, built with Python Flask. It logs incidents, volunteers and locations, maps callouts with Leaflet, and charts trends by callout type, month, day of week and hour, with admin tools and Excel import.
 
 ### 🔧 [Garage System](https://github.com/george-oconnor/garage-system)
