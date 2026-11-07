@@ -41,9 +41,6 @@ A bespoke e-commerce platform from scratch using Python Flask, featuring Stripe 
 ### 🌅 [Ascend - Fitness Challenge Tracker](https://apps.apple.com/app/ascend-challenge-tracker/id6757496594)
 Complete multi-day fitness challenges with comprehensive tracking, Apple Health sync, progress analytics, and achievement badges to build unstoppable momentum. Transform Your Life One Day at a Time. Ascend is the ultimate companion for completing life-changing fitness challenges. Whether you're tackling a 75-day mental toughness program, a 30-day transformation, or building your own custom challenge, Ascend keeps you accountable every single day.
 
-### ✈️ [ATC Assessment Centre Practice](https://atc-sim.georgeoc.com)
-A browser-based simulator for practising the Air Traffic Controller assessment centre: a corridor of controlled airspace, aircraft that only do what you tell them, and three exercises of increasing traffic. Built with Python Flask, with optional accounts and run history.
-
 ### 🔧 [Garage System](https://github.com/george-oconnor/garage-system)
 A Python Flask app for keeping a car's service history: vehicles, mileage logs, service events with itemised line items, and PDF service records.
 
