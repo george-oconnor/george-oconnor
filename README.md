@@ -32,13 +32,13 @@
 
 ## 🌟 Featured Projects
 
-### 💶 [Loaded - Personal Budgeting](https://apps.apple.com/ie/app/loaded-personal-budgeting/id6756985580)
+### <img src="assets/loaded.png" width="28" height="28" align="center" alt=""> [Loaded - Personal Budgeting](https://apps.apple.com/ie/app/loaded-personal-budgeting/id6756985580)
 Take control of your finances with Loaded - The Personal Budgeting App - the smart, intuitive way to manage your money.
 
 ### 🛒 [Píosa Me Merch](https://merch-piosame.georgeoc.com/)
 A bespoke e-commerce platform from scratch using Python Flask, featuring Stripe payments integration for seamless and secure transactions.
 
-### 🌅 [Ascend - Fitness Challenge Tracker](https://apps.apple.com/app/ascend-challenge-tracker/id6757496594)
+### <img src="assets/ascend.png" width="28" height="28" align="center" alt=""> [Ascend - Fitness Challenge Tracker](https://apps.apple.com/app/ascend-challenge-tracker/id6757496594)
 Complete multi-day fitness challenges with comprehensive tracking, Apple Health sync, progress analytics, and achievement badges to build unstoppable momentum. Transform Your Life One Day at a Time. Ascend is the ultimate companion for completing life-changing fitness challenges. Whether you're tackling a 75-day mental toughness program, a 30-day transformation, or building your own custom challenge, Ascend keeps you accountable every single day.
 
 ### 🧘 [Roseberg Studios](https://www.roseberg.ie)
@@ -50,7 +50,7 @@ An operations dashboard for my Coast Guard unit, built with Python Flask. It log
 ### 🔧 [Garage System](https://github.com/george-oconnor/garage-system)
 A Python Flask app for keeping a car's service history: vehicles, mileage logs, service events with itemised line items, and PDF service records.
 
-### 🎓 [GradePilot](https://github.com/george-oconnor/gradepilot)
+### <img src="assets/gradepilot.png" width="28" height="28" align="center" alt=""> [GradePilot](https://github.com/george-oconnor/gradepilot)
 A React Native (Expo) grade calculator: enter assignments with grades and weightings to see your weighted average and letter grade, and save calculations for later.
 
 ---
